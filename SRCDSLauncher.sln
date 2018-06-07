@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2000
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SRCDSLauncher", "SRCDSLauncher\SRCDSLauncher.csproj", "{544A5428-4758-4EB1-BE8D-E356F4E4FD81}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TEST", "TEST\TEST.csproj", "{CE9EB357-2967-4EDD-ADB9-1274882E60F6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{544A5428-4758-4EB1-BE8D-E356F4E4FD81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{544A5428-4758-4EB1-BE8D-E356F4E4FD81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{544A5428-4758-4EB1-BE8D-E356F4E4FD81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{544A5428-4758-4EB1-BE8D-E356F4E4FD81}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE9EB357-2967-4EDD-ADB9-1274882E60F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE9EB357-2967-4EDD-ADB9-1274882E60F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE9EB357-2967-4EDD-ADB9-1274882E60F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE9EB357-2967-4EDD-ADB9-1274882E60F6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {84B6653E-FA83-4392-A781-2E04398E45B6}
+	EndGlobalSection
+EndGlobal
